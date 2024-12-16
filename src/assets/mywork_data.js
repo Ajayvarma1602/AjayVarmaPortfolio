@@ -2,7 +2,7 @@ import project1_img from '../assets/e1.png'
 import project2_img from '../assets/netflix.png'
 import project3_img from '../assets/food.png'
 import project4_img from '../assets/portfolio1.png'
-import project5_img from '../assets/todo.png'
+import project5_img from '../assets/Todo.png'
 import project6_img from '../assets/wikipedia.png'
 
 const mywork_data = [
