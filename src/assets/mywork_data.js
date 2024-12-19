@@ -20,7 +20,7 @@ const mywork_data = [
         w_no:2,
         w_name:"Web design",
         w_img:project2_img,
-        w_title: 'Portfolio',
+        w_title: 'Netflix',
         demo_link: 'https://netflix-clone-app-frontend.onrender.com',
         code_link:'https://github.com/Ajayvarma1602/netflix-clone-app/tree/master',
 
