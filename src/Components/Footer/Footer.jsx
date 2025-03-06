@@ -31,7 +31,7 @@ const Footer = () => {
       <div className="footer-top">
         <div className="footer-top-left">
           <h1><span className='logo'>Ajay</span></h1>
-          <p>I am a frontend developer with more than 3 years of experience in companies like Capgemini and Verizon.</p>
+          <p>I am a frontend developer with more than 2 years of experience in companies like Capgemini and Verizon.</p>
         </div>
         <div className="footer-top-right">
           {!isSubscribed && (
@@ -67,7 +67,7 @@ const Footer = () => {
       </div>
       <hr />
       <div className="footer-bottom">
-        <p className="footer-bottom-left">© 2024 Ajay Tanniru. All rights reserved.</p>
+        <p className="footer-bottom-left">© 2025 Ajay Tanniru. All rights reserved.</p>
         <div className="footer-bottom-right">
           <p>Term of Services</p>
           <p>Privacy Policy</p>
