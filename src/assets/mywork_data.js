@@ -33,7 +33,7 @@ const mywork_data = [
         w_name:"Web design",
         w_img:project1_img,
 
-        w_title: 'E-Commerce',
+        w_title: 'E-Commerce[username: rahul password: rahul@2021 ]',
         demo_link: 'https://cozy-cheesecake-6b6930.netlify.app/',
         
 code_link:'https://github.com/Ajayvarma1602/E-commerce-Website',
