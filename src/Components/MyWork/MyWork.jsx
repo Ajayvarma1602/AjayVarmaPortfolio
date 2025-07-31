@@ -7,7 +7,7 @@ import arrow_icon from '../../assets/arrow_icon.svg';
 const MyWork = () => {
   const [showMore, setShowMore] = useState(false);
 
-  // Determine items to display based on showMore state
+  // Determine items to display based on show More state
   const displayedItems = showMore ? mywork_data : mywork_data.slice(0, 3);
 
   return (
