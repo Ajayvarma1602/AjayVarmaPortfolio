@@ -1,4 +1,4 @@
-import React from 'react'
+eimport React from 'react'
 import './Contact.css'
 import theme_pattern from '../../assets/theme_pattern.svg'
 import mail_icon from '../../assets/mail_icon.svg'
@@ -11,7 +11,7 @@ const Contact = () => {
     event.preventDefault();
     const formData = new FormData(event.target);
 
-// enter your own web3 forms access key below
+// enter your own web3 forms access key below here
 
     formData.append("access_key", "c2b8108a-3fac-4830-b184-3dd21ba5ad6c");
 
