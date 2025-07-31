@@ -5,7 +5,7 @@ import user_icon from '../../assets/user_icon.svg';
 const Footer = () => {
   const [isSubscribed, setIsSubscribed] = useState(false);
   const [email, setEmail] = useState('');
-  const [name, setName] = useState('');  // State to track the name input
+  const [name, setName] = useState('');  // State to track name input
   const [error, setError] = useState('');
 
   // Email validation function using regex
