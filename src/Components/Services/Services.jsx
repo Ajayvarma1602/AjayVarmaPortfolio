@@ -8,7 +8,7 @@ const Services = () => {
   return (
     <div id='services' className='services'>
       <div className="title-box">
-        <h1>My Services</h1>
+        <h1>My Service</h1>
         <img src={theme_pattern} alt="" />
       </div>
       <div className="services-container">
@@ -19,7 +19,7 @@ const Services = () => {
              <p>{service.s_desc}</p>
              <div className='services-readmore'  onClick={() => handleReadMore(service.s_no)} // Pass the service ID
              >
-              <p>Read More</p>
+              <p> Read More </p>
               <img src={arrow_icon} alt="" />
              </div>
           </div>
