@@ -31,17 +31,24 @@ A creative and responsive developer portfolio built using **React + Vite**, show
 ## 📂 Project Structure
 AjayVarmaPortfolio/
 ├── public/
-│ └── portfolio-screenshot.png
 ├── src/
-│ ├── assets/
-│ ├── components/
-│ ├── sections/
-│ ├── App.jsx
-│ └── index.js
+│   ├── About/
+│   ├── Contact/
+│   ├── Footer/
+│   ├── Hero/
+│   ├── MyWork/
+│   ├── Navbar/
+│   ├── Services/
+│   ├── Components/
+│   ├── assets/
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
 ├── .eslintrc.cjs
 ├── .gitignore
 ├── index.html
 ├── package.json
+├── package-lock.json
 ├── vite.config.js
 └── README.md
 
