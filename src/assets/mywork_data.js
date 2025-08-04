@@ -4,10 +4,20 @@ import project3_img from '../assets/food.png'
 import project4_img from '../assets/portfolio1.png'
 import project5_img from '../assets/Todo.png'
 import project6_img from '../assets/wikipedia.png'
-
+import CarRental from '../assests/CarRental.png'
 const mywork_data = [
-    {
+{
         w_no:1,
+        w_name:"Web design",
+        w_img:CarRental,
+
+        w_title: 'Car Rental',
+        demo_link: 'https://car-rental-ajays-projects-933b0779.vercel.app/',
+        code_link:'https://github.com/Ajayvarma1602/CarRental',
+
+    }    
+,{
+        w_no:2,
         w_name:"Web design",
         w_img:project3_img,
 
@@ -17,7 +27,7 @@ const mywork_data = [
 
     },
     {
-        w_no:2,
+        w_no:3,
         w_name:"Web design",
         w_img:project2_img,
         w_title: 'Netflix',
@@ -29,7 +39,7 @@ const mywork_data = [
 
     },
     {
-        w_no:3,
+        w_no:4,
         w_name:"Web design",
         w_img:project1_img,
 
@@ -40,7 +50,7 @@ code_link:'https://github.com/Ajayvarma1602/E-commerce-Website',
 
     },
     {
-        w_no:4,
+        w_no:5,
         w_name:"Web design",
         w_img:project4_img,
         w_title: 'Portfolio',
@@ -49,7 +59,7 @@ code_link:'https://github.com/Ajayvarma1602/E-commerce-Website',
 
     },
     {
-        w_no:5,
+        w_no:6,
         w_name:"Web design",
         w_img:project5_img,
         w_title: 'Todo',
@@ -58,7 +68,7 @@ code_link:'https://github.com/Ajayvarma1602/E-commerce-Website',
 
     },
     {
-        w_no:6,
+        w_no:7,
         w_name:"Web design",
         w_img:project6_img,
         w_title: 'WikipediaSearch',
