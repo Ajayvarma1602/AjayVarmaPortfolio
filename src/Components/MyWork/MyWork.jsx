@@ -25,7 +25,9 @@ const MyWork = () => {
               <div className='button-container'>
               <a href={work.demo_link} target="_blank" rel="noopener noreferrer" className="demo-button">Demo</a>
               {index < 3 && <a href={work.code_link} target="_blank" rel="noopener noreferrer" className="extra-button">Code</a>}
-            </div>
+                  {work.figma_link && <a href={work.figma_link} target="_blank" rel="noopener noreferrer" className="extra-button">Figma</a>}
+
+              </div>
             </div>
           );
         })}
@@ -39,5 +41,6 @@ const MyWork = () => {
 };
 
 export default MyWork;
+
 
 
