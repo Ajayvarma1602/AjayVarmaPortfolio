@@ -12,7 +12,7 @@ const mywork_data = [
         w_img:CarRental,
 
         w_title: 'Car Rental',
-        demo_link: 'https://car-rental-ajays-projects-933b0779.vercel.app/',
+        demo_link: 'https://car-rental-ajays-projects-933b0779.vercel.app',
         code_link:'https://github.com/Ajayvarma1602/CarRental',
 
     }    
