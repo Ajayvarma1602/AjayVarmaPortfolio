@@ -14,6 +14,7 @@ const mywork_data = [
         w_title: 'Car Rental',
         demo_link: 'https://car-rental-seven-flax.vercel.app',
         code_link:'https://github.com/Ajayvarma1602/CarRental',
+        figma_link:'https://www.figma.com/design/fPLpTyQ0VY0jExjoSkB9GB/CarRental-Figma?node-id=0-1&p=f&t=9CQTMjr40NstakUo-0',
 
     }    
 ,{
