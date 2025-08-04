@@ -4,7 +4,7 @@ import project3_img from '../assets/food.png'
 import project4_img from '../assets/portfolio1.png'
 import project5_img from '../assets/Todo.png'
 import project6_img from '../assets/wikipedia.png'
-import CarRental from '../assests/CarRental.png'
+import CarRental from '../assets/CarRental.png'
 const mywork_data = [
 {
         w_no:1,
