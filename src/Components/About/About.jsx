@@ -26,6 +26,8 @@ const About = () => {
                 <div className="about-skill"><p>Wordpress</p><hr style={{width:"70%"}} /></div>
                 <div className="about-skill"><p>Shopify</p><hr style={{width:"70%"}} /></div>
                 <div className="about-skill"><p>Python</p><hr style={{width:"70%"}} /></div>
+                <div className="about-skill"><p>Django</p><hr style={{width:"70%"}} /></div>
+
 
                 <div className="about-skill"><p>React JS</p><hr style={{width:"80%"}} /></div>
                 <div className="about-skill"><p>JavaScript</p><hr style={{width:"90%"}} /></div>
@@ -56,4 +58,5 @@ const About = () => {
 }
 
 export default About
+
 
