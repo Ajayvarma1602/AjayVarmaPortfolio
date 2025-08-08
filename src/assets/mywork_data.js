@@ -23,7 +23,7 @@ const mywork_data = [
         w_name:"Web design",
         w_img:Partify,
 
-        w_title: 'Partify Vechile Parts',
+        w_title: 'Partify Vechile Parts Finder',
         demo_link: 'https://ajayvarma1602.github.io/PartifyUI/',
         code_link:'https://github.com/Ajayvarma1602/PartifyUI',
     }   
