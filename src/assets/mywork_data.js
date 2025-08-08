@@ -26,6 +26,8 @@ const mywork_data = [
         w_title: 'Partify Vechile Parts Finder',
         demo_link: 'https://ajayvarma1602.github.io/PartifyUI/',
         code_link:'https://github.com/Ajayvarma1602/PartifyUI',
+        figma_link:'https://www.figma.com/design/nrUzwpnCiwxvD0OLhxWNqB/Partify?node-id=1-1213&t=SGOQBbcJwXvdpoKx-1',
+
     }   
 ,{
         w_no:3,
