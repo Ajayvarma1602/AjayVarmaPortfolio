@@ -17,7 +17,7 @@ const About = () => {
         </div>
         <div className="about-right">
             <div className="about-para">
-                <p>I am an Experienced Web Developer with over a three years of professional expertise in the field. Throughout my career, I have had the privilege of collaborating with prestigious organizations, contributing to their success and growth.</p>
+                <p>I am an Experienced Frontend Web Developer with over a three years of professional expertise in the field. Throughout my career, I have had the privilege of collaborating with prestigious organizations, contributing to their success and growth.</p>
                 <p>My passion for web development is not only reflected in my extensive experience but also in the enthusiasm and dedication I bring to each project.</p>
             </div>
             <div className="about-skills">
@@ -56,6 +56,7 @@ const About = () => {
 }
 
 export default About
+
 
 
 
