@@ -31,7 +31,7 @@ const Footer = () => {
       <div className="footer-top">
         <div className="footer-top-left">
           <h1><span className='logo'>Ajay</span></h1>
-          <p>I am a Web Developer with more than 3 years of experience in companies like Capgemini and TechVirtue.</p>
+          <p>I am a Frontend Web Developer with more than 3 years of experience in companies like Capgemini and TechVirtue.</p>
         </div>
         <div className="footer-top-right">
           {!isSubscribed && (
@@ -79,4 +79,5 @@ const Footer = () => {
 };
 
 export default Footer;
+
 
