@@ -51,7 +51,7 @@ const Contact = () => {
                     <img src={call_icon} alt="" /> <p>267-253-7502</p>
                 </div>
                 <div className="contact-detail">
-                    <img src={location_icon} alt="" /> <p>Detroit, MI, United States</p>
+                    <img src={location_icon} alt="" /> <p> United States</p>
                 </div>
             </div>
         </div>
@@ -70,6 +70,7 @@ const Contact = () => {
 }
 
 export default Contact
+
 
 
 
