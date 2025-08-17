@@ -5,7 +5,7 @@ import project4_img from '../assets/portfolio1.png'
 import project5_img from '../assets/Todo.png'
 import project6_img from '../assets/wikipedia.png'
 import CarRental from '../assets/CarRental.png'
-import Partify from '../assets/PARTIFY.png'
+import Partify from '../assets/PARTIFYUI.png'
 const mywork_data = [
 {
         w_no:1,
@@ -23,10 +23,9 @@ const mywork_data = [
         w_name:"Web design",
         w_img:Partify,
 
-        w_title: 'Partify Vechile Parts Finder',
+        w_title: 'Partify Vehicle Parts Finder',
         demo_link: 'https://ajayvarma1602.github.io/PartifyUI/',
         code_link:'https://github.com/Ajayvarma1602/PartifyUI',
-        figma_link:'https://www.figma.com/design/nrUzwpnCiwxvD0OLhxWNqB/Partify?node-id=1-1213&t=SGOQBbcJwXvdpoKx-1',
 
     }   
 ,{
