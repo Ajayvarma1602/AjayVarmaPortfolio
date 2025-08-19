@@ -17,11 +17,13 @@ const About = () => {
         </div>
         <div className="about-right">
             <div className="about-para">
-                <p>I am an Experienced Frontend Web Developer with over a three years of professional expertise in the field. Throughout my career, I have had the privilege of collaborating with prestigious organizations, contributing to their success and growth.</p>
+                <p>I am an Experienced FullStack Web Developer with over a three years of professional expertise in the field. Throughout my career, I have had the privilege of collaborating with prestigious organizations, contributing to their success and growth.</p>
                 <p>My passion for web development is not only reflected in my extensive experience but also in the enthusiasm and dedication I bring to each project.</p>
             </div>
             <div className="about-skills">
                 <div className="about-skill"><p>HTML & CSS</p><hr style={{width:"80%"}} /></div>
+                              <div className="about-skill"><p>Wordpress</p><hr style={{width:"70%"}} /></div>
+
                 <div className="about-skill"><p>Shopify</p><hr style={{width:"70%"}} /></div>
                 <div className="about-skill"><p>Python</p><hr style={{width:"70%"}} /></div>
                 <div className="about-skill"><p>Django</p><hr style={{width:"70%"}} /></div>
@@ -31,6 +33,8 @@ const About = () => {
                 <div className="about-skill"><p>JavaScript</p><hr style={{width:"90%"}} /></div>
                 <div className="about-skill"><p>TypeScript</p><hr style={{width:"60%"}} /></div>
                 <div className="about-skill"><p>Node JS</p><hr style={{width:"50%"}} /></div>
+                              <div className="about-skill"><p>TailwindCSS</p><hr style={{width:"50%"}} /></div>
+
                 <div className="about-skill"><p>SQL</p><hr style={{width:"60%"}} /></div>
             </div>
         </div>
@@ -56,6 +60,7 @@ const About = () => {
 }
 
 export default About
+
 
 
 
