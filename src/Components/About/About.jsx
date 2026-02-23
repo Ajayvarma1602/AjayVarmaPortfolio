@@ -28,6 +28,10 @@ const About = () => {
 
                 <div className="about-skill"><p>Java</p><hr style={{width:"85%"}} /></div>
                <div className="about-skill"><p>Springboot</p><hr style={{width:"85%"}} /></div>
+              
+                <div className="about-skill"><p>C#</p><hr style={{width:"80%"}} /></div>
+              
+                <div className="about-skill"><p>.NET</p><hr style={{width:"85%"}} /></div>
 
                 <div className="about-skill"><p>React JS</p><hr style={{width:"80%"}} /></div>
                 <div className="about-skill"><p>JavaScript</p><hr style={{width:"90%"}} /></div>
@@ -66,6 +70,7 @@ const About = () => {
 }
 
 export default About
+
 
 
 
